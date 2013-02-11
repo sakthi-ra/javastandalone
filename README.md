@@ -1,0 +1,2 @@
+javastandalone
+==============
